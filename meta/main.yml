@@ -1,0 +1,14 @@
+---
+
+dependencies: []
+
+galaxy_info:
+  author: Kevin S. Clarke - https://github.com/ksclarke
+  description: Configures a CentOS box for developers' use
+  company: UCLA Library
+  license: reference LICENSE file
+  min_ansible_version: 2.4
+  platforms:
+  - name: EL
+    versions:
+    - 7
