@@ -3,6 +3,8 @@ uclalib_role_developers_box &nbsp;[![Build Status](https://travis-ci.org/UCLALib
 
 Ansible role to configure a VM for developers
 
+**Note:** This role is no longer being developed or maintained so the repo is being archived.
+
 Requirements
 ------------
 
